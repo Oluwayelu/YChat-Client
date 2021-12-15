@@ -9,7 +9,7 @@ import Input from "../Input";
 
 import "./Chat.css";
 
-const ENDPOINT = "http://localhost:5000/";
+const ENDPOINT = "https://ychat-server.herokuapp.com/";
 
 let socket;
 
